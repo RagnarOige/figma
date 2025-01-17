@@ -1,0 +1,446 @@
+@media only screen and (max-width: 600px) {
+    
+}
+   
+  
+  
+  
+  
+
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+p {
+    font-family: "Urbanist", serif;
+}
+body{
+    background-color: black;
+
+}
+.nav {
+    
+   
+    color: white;       
+    padding-top: 16px;     
+    padding-bottom: 6px;   
+    display: flex;
+    justify-content: space-between;  
+    
+    background-color:black; 
+ }
+ 
+ .text{
+    position: relative;
+    bottom: 13px;
+    padding-left: 30px;
+    font-size: 25px;
+    background: linear-gradient(90deg, rgba(83, 80, 246, 1), rgba(230, 98, 254, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ }
+ .nav-menu {
+    size: 140px;
+    padding-right: 60px;
+    display: flex;
+    gap: 32px;             
+    justify-content: flex-end;
+    width: auto;           
+    height: 47px;
+ }
+.startup1{
+    font-size: 40px;
+    line-height: 88px;
+    font-weight: 600;
+    background: linear-gradient(90deg,rgba(78, 75, 228, 1), rgba(232, 98, 254, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.startup2{
+    font-size: 24px; 
+    font-weight: 500;
+    
+   
+}
+.startup3{
+    font-weight: 700;
+    line-height: 30px;
+    font-size: 16px;
+    color: rgba(255, 59, 255, 1);
+}
+.section-header{ 
+    color: white;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.logo1{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+.header-container{
+    
+    color: white;
+    text-align: center;
+}
+.power{
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 61.6px;
+    background: linear-gradient(90deg,rgba(78, 75, 228, 1), rgba(232, 98, 254, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.seam{
+    font-size: 16px;
+    font-weight: 500;
+}
+.logo-ring{
+    position: relative;
+    left: 900px;
+    top: 100px;
+}
+
+.benefit-content{
+    position: relative;
+    bottom: 100px;
+    padding-left: 44px;
+    color: white;
+    width: 600px;
+    height: 296px;
+    gap: 24px;
+}
+.copy{
+    font-size: 48px;
+}
+.benefits-list{
+    border-radius: 15px;
+    position: relative;
+    left: 700px;
+    bottom: 390px;
+    color: white;
+    width: 500px; 
+    height: 300px;
+    background-color: rgb(26, 26, 27); 
+    padding: 20px;
+    box-sizing: border-box; 
+}
+.tailoring{
+    font-size: 26px;
+    
+}
+.auto{
+    padding-top: 25px;
+    font-size: 26px;
+}
+.benefits-component{
+    width: 1280px;
+    height: 296px;
+    gap: 80px;
+}
+.benefits-list2{
+    border-radius: 15px;
+    position: relative;
+    left: 44px;
+    bottom: 530px;
+    color: white;
+    width: 500px;
+    height: 300px; 
+    background-color: rgb(26, 26, 27); 
+    padding: 20px;
+    box-sizing: border-box; 
+}
+.benefit-content2{
+    position: relative;
+    bottom: 600px;
+    left: 650px;
+    color: white;
+    width: 600px;
+    height: 296px;
+}
+.tailoring2{
+    font-size: 26px;
+    
+}
+.auto2{
+    padding-top: 25px;
+    font-size: 26px;
+}
+.copy2{
+    font-size: 48px;
+}
+
+.header-content{
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 430px;
+}
+.logo-ring2{
+    position: relative;
+    bottom: 120px;
+}
+.proactive{
+    position: relative;
+    bottom: 360px;
+    left: 330px;
+    background-color: rgb(26, 26, 27); 
+    padding: 20px;
+    box-sizing: border-box; 
+    color: white;
+    width: 280px;
+    height: 270px; 
+    border-radius: 20px;
+}
+.power2{
+    font-size: 28px;
+    background: linear-gradient(90deg,rgba(78, 75, 228, 1), rgba(232, 98, 254, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.choose{
+    color: white;
+    position: relative;
+    top: 70px;
+    border-radius: 10px;
+    background-color: rgba(79, 76, 229, 1);
+    width: 150px;
+    height: 40px;
+}
+.mode{
+    font-size: 22px;
+    background: linear-gradient(90deg,rgba(78, 75, 228, 1), rgba(232, 98, 254, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.proactive2{
+    position: relative;
+    bottom: 630px;
+    left: 660px;
+    background-color: rgb(26, 26, 27);
+    padding: 20px;
+    box-sizing: border-box; 
+    color: white;
+    width: 280px;
+    height: 270px; 
+    border-radius: 20px;
+}
+.seamless{
+    position: relative;
+    bottom: 590px;
+    left: 330px;
+    background-color: rgb(26, 26, 27);
+    padding: 20px;
+    box-sizing: border-box; 
+    color: white;
+    width: 610px;
+    height: 220px; 
+    border-radius: 20px;
+}
+.less{
+    background: linear-gradient(90deg,rgba(78, 75, 228, 1), rgba(232, 98, 254, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 22px;
+}
+.choose2{
+    color: white;
+    position: relative;
+    top: 40px;
+    border-radius: 10px;
+    background-color: rgba(79, 76, 229, 1);
+    width: 150px;
+    height: 40px;
+}
+.container-header{
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 500px;
+}
+.fyou{
+    background: linear-gradient(90deg,rgba(78, 75, 228, 1), rgba(232, 98, 254, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 28px;
+}
+.one{
+    font-size: 16px;
+}
+.stats{
+    position: relative;
+    bottom: 430px;
+    left: 40px;
+}
+.reflect{
+    color: white;
+    position: relative;
+    bottom: 730px; 
+    left: 730px;
+}
+.ref{
+    width: 300px;
+    font-size: 28px;
+           
+}
+.features{
+    color: rgba(74, 58, 255, 1);
+    font-size: 18px;
+}
+.reflect2{position: relative;
+    top: 320px;
+    right: 600px;
+}
+.stats2{
+    position: relative;
+    left: 550px;
+    bottom: 300px;
+}
+.stats3{
+    position: relative;
+    bottom: 550px;
+    left: 40px;
+}
+.customize{
+    color: white;
+    position: relative;
+    bottom: 830px;
+    left: 730px;
+    
+}
+.feat{
+    color: rgba(74, 58, 255, 1);
+    font-size: 18px;
+}
+.custom-ai{
+    width: 300px;
+    font-size: 28px;
+}
+.testimonials{
+    background: linear-gradient(90deg,rgba(78, 75, 228, 1), rgba(232, 98, 254, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 28px;
+    position: relative;
+    text-align: center;
+    bottom: 580px;
+}
+.reviewer-unos{
+    color: white;
+    background-color: rgb(26, 26, 27);
+    padding: 20px;
+    box-sizing: border-box; 
+    width: 390px;
+    height: 220px; 
+    border-radius: 15px;
+    position: relative;
+    bottom: 500px;
+    left: 10px;
+}
+.yap{
+    position: relative;
+    bottom: 10px;
+    font-size: 15px;
+}
+.author{
+    display: flex;
+    position: relative;
+    top: 30px;
+}
+.vice{
+    position: relative;
+    top: 30px;
+    right: 87px;
+    font-size: 13px;
+}
+.author-image{
+    position: relative;
+    top: 18px;
+    right: 10px;
+}
+.star{
+    color: rgba(255, 196, 108, 1);
+    font-size: 20px;
+}
+.reviewer-tes{
+    color: white;
+    background-color: rgb(26, 26, 27);
+    padding: 20px;
+    box-sizing: border-box; 
+    width: 390px;
+    height: 220px; 
+    border-radius: 15px;
+    position: relative;
+    bottom: 720px;
+    left: 420px ;
+}
+.reviewer-tetra{
+    color: white;
+    background-color: rgb(26, 26, 27);
+    padding: 20px;
+    box-sizing: border-box; 
+    width: 390px;
+    height: 220px; 
+    border-radius: 15px;
+    position: relative;
+    bottom: 940px;
+    left: 830px ;
+}
+.rating-ring{
+    position: relative;
+    bottom: 50px;
+}
+.rating-ring2{
+    position: relative;
+    left: 670px;
+    bottom: 260px;
+}
+.section-testimonials{
+    position: relative;
+    bottom: 300px;
+}
+.pic-header{
+    position: relative;
+    bottom: 50px;
+}
+.hard-pic{
+    position: relative;
+    bottom: 920px;
+    left: 100px;
+}
+.text-hard{
+    position: relative;
+    color: white;
+    position: relative;
+    bottom: 1400px;
+    left: 700px;
+}
+.copy3{
+    font-size: 48px;
+    width: 450px;
+}
+.lorem3{
+    width: 400px;
+    font-size: 15px;
+}
+.talk{
+    color: white;
+    position: relative;
+    top: 10px;
+    border-radius: 15px;
+    background-color: rgba(79, 76, 229, 1);
+    width: 150px;
+    height: 40px;
+}
+.header-pricing{
+    text-align: center;
+    color: white;
+    position: relative;
+    bottom: 1200px;
+}
+.our{
+    font-size: 28px;
+    background: linear-gradient(90deg,rgba(78, 75, 228, 1), rgba(232, 98, 254, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
